@@ -2,7 +2,7 @@ import json
 from abc import ABC, abstractmethod
 
 
-class ICourse:
+class ICourse(ABC):
 
     @property
     @abstractmethod
