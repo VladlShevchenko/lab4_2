@@ -1,0 +1,21 @@
+[
+  {
+    "type": "LocalCourse",
+    "name": "Java",
+    "teacher": "",
+    "topics": ["OOP","Threads","Spring"]
+  },
+  {
+    "type": "OffsiteCourse",
+    "name": "Python",
+    "teacher": "",
+    "topics": ["OOP"]
+  },
+  {
+    "type": "OffsiteCourse",
+    "name": "C#",
+    "teacher": "",
+    "topics": ["OOP",".Net"]
+  }
+
+]
